@@ -1,17 +1,12 @@
-# Estudos de SQL
+# Estudos e Exercícios de Banco de Dados (SQL)
+Repositório dedicado ao armazenamento de consultas, scripts e rotinas de banco de dados praticados durante os estudos de Engenharia de Software.
 
-Cola e exercícios de SQL (MySQL), usando o banco de exemplo sakila.
+## 🚀 Tecnologias e Conceitos
+- SQL (Structured Query Language)
+- Modelagem de Dados Relacional
 
-## Conteúdo
-- 00: Ordem de execução e erros clássicos
-- 01: SELECT, WHERE, ORDER BY, LIMIT
-- 02: Agregações, GROUP BY, HAVING
-- 03: JOINs
-- 04: JOIN com GROUP BY
-- 05: CREATE, INSERT, UPDATE, DELETE
-
-## Como usar
-
-1. Instale o MySQL e o MySQL Workbench.
-2. Abra o arquivo desejado no Workbench.
-3. Selecione o trecho e execute com Ctrl + Enter.
+## 💡 Tópicos Abordados
+- **DDL (Data Definition Language):** Criação e alteração de tabelas e estruturas (`CREATE`, `ALTER`, `DROP`).
+- **DML (Data Manipulation Language):** Inserção, atualização e remoção de dados (`INSERT`, `UPDATE`, `DELETE`).
+- **Consultas e Filtros (DQL):** Utilização de `SELECT`, cláusulas `WHERE`, ordenações (`ORDER BY`) e agrupamentos (`GROUP BY`).
+- **Relacionamentos e Junções:** Consultas relacionando múltiplas tabelas com `JOIN`.
